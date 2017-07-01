@@ -1,0 +1,79 @@
+footer {
+  
+  height: 30px;
+}
+#wrapper {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+#main,
+#menu,
+#sidebar {
+  height: 600px;
+}
+
+#main,
+#menu,
+#sidebar {
+  background-color: #e9ebee;
+}
+#header {
+    background-color: #4267b2;
+    color: white;
+}
+.white-text {
+  color: white !important;
+}
+#header ul .glyphicon {
+    font-size: 20px;
+}
+.pull-right {
+    float: right!important;
+}
+.list-heading {
+    padding: 20px 15px 0 15px;
+}
+.navbar-brand{
+	font-style:bold;
+	font-size:30px;
+}
+#searchbox{
+	width:500px;
+	height:25px;
+}
+.btn-default{
+	margin-left:-43px;
+	border:none;
+	height:25px;
+}
+.navbar{
+	height:40px;
+}
+.panel-body .glyphicon {
+    margin-left: 10px;
+    margin-right: 4px;
+}
+.text-post {
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+.image-post {
+    margin-bottom: 15px;
+}
+#main {
+    overflow: auto;
+}
+#main::-webkit-scrollbar {
+    display: none;
+}
+.comment {
+    margin: 0;
+}
+input{
+	width:100%;
+}
+.guri{
+	height:25px;
+	width:25px;
+}
